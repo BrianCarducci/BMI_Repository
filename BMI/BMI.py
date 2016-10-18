@@ -6,6 +6,14 @@ from math import sqrt
 # Date: 10/10/16
 # CSC325, RUBY
 
+"""This program reads in a text file which is composed of numerical data. Rows represent individuals and columns
+   represent variables. This program acquires the desired data from this text file (age, weight, height). It then
+   calculates the BMIs of all of the individuals and plots the BMIs against the ages of the individuals. It then
+   calculates the formula contained in the function named calc_formula, and plots this data against the weight of
+   the individuals. The regression lines for both graphs are calculated and plotted as well."""
+
+
+
 
 """Computes formula"""
 
